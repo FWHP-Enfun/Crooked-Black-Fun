@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/FWHP-Enfun/Crooked-Black-Fun/main/Picture/1.png)
 
 用[得意黑](https://github.com/atelier-anchor/smiley-sans)和[斜月體](https://github.com/onichan0923/smiley-moon)修改
-Modify with proud black and oblique moon body
+Modify with Smiley Sans and Smiley Moon body
 
 ![](https://raw.githubusercontent.com/FWHP-Enfun/Crooked-Black-Fun/main/Picture/2.png)
 
