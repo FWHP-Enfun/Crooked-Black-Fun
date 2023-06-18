@@ -5,10 +5,20 @@
 
 Modify with Smiley Sans and Smiley Moon body
 
-![](https://raw.githubusercontent.com/FWHP-Enfun/Crooked-Black-Fun/main/Picture/2.png)
-
 盡力放正，還是失敗
 Try your best, but fail
+
+# 內容差別 Content Difference
+
+# 使用字體效果 Use Font Effects
+
+# 原來的字體 Original Font
+
+![](https://raw.githubusercontent.com/FWHP-Enfun/Crooked-Black-Fun/main/Picture/2.png)
+
+用[得意黑](https://github.com/atelier-anchor/smiley-sans)和[斜月體](https://github.com/onichan0923/smiley-moon)修改
+
+Modify with Smiley Sans and Smiley Moon body
 
 ## 開源字體授權規定 Open Source Font Licensing Regulations
 
