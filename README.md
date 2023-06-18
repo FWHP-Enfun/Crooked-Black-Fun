@@ -1,12 +1,8 @@
 # 偏歪的黑趣體 crooked black body
 ![](https://raw.githubusercontent.com/FWHP-Enfun/Crooked-Black-Fun/main/Picture/1.png)
 
-用得意黑和斜月體修改
+用[得意黑](https://github.com/atelier-anchor/smiley-sans)和[斜月體](https://github.com/onichan0923/smiley-moon)修改
 Modify with proud black and oblique moon body
-
-https://github.com/atelier-anchor/smiley-sans
-
-https://github.com/onichan0923/smiley-moon
 
 ![](https://raw.githubusercontent.com/FWHP-Enfun/Crooked-Black-Fun/main/Picture/2.png)
 
